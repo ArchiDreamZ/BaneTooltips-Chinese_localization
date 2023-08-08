@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bane-tooltips",
+  "name": "Lord of the Rings Bane Tooltips Add-On - ±À√Œ∫∫ªØ",
+  "description": "Displays a weapon's progress towards a bane modifier in its tooltip.",
+  "version": "1.0.1",
+  "mcversion": "1.7.10 for LoTR v36.5",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DarthChurros"],
+  "credits": "Vinyarion",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["The Lord of the Rings Mod"]
+}
+]
